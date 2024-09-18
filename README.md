@@ -1,4 +1,4 @@
-# Generic HashMap
+# Generics
 To implement a queue and stack backed by a linked list with generic's.
 
 ## Required Developer Software
